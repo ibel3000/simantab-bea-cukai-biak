@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Build output
+/dist
+/build
+
+# macOS specific files
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# npm debug file
+npm-debug.log*
+
+# yarn integrity file
+.yarn-integrity
+
+# dotenv environment variable files
+.env.*
